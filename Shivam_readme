@@ -1,0 +1,4 @@
+docker-compose up
+
+$ bundle install
+$ bundle exec jekyll serve
