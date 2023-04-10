@@ -12,7 +12,7 @@
   contents:
     - title: Rutgers, The State Univesity of New Jersey
       degree: Ph.D. in Chemical and Biochemical Engineering
-      GPA: 3.95/4.0
+      GPA: 3.96/4.0
       year: 2018-present
       description:
         - title: Relevant Courses
@@ -25,7 +25,6 @@
             - Computational Physics
             - Quantum Mechanics
             - Introduction to College Teaching
-
 
     - title: Indian Institute of Technology Roorkee, India
       degree: B.Tech. in Chemical Engineering
@@ -43,23 +42,23 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Mutliscale Modeling Intern
-      institution: ExxonMobil, Annandale, NJ
+    - title: ExxonMobil, Annandale, NJ
+      institution: Multiscale modeling intern
       year: Sep 22 - Mar 23
       description:
         - Generated a realistic structure of amorphous organic material of shales using Molecular Dynamics
         - Proposed a multiscale approach to calculate pore volume, surface area and pore size distribution using Monte Carlo and Density Functional Theory
       #tools- LAMMPS, RASPA, VMD
 
-    - title: Computational Modeling Intern
-      institution: Johannes Gutenberg University Mainz, Germany
+    - title: Johannes Gutenberg University Mainz, Germany
+      institution: Computational Modeling Intern
       year: 2017
       description:
         - Employed a combination of the electronic structure based Molecular dynamics and free energy perturbation approach to study quartz/water interface
         - Calculated the acidity of Pyruvic acid on the interface using the thermodynamics integration approach
 
-    - title: Experiments and Modeling Intern
-      institution: Indian Institute of Technology Madras, India
+    - title: Indian Institute of Technology Madras, India
+      institution: Experiments and Modeling Intern
       year: 2016
       description:
         - Performed gas absorption experiments in microchannels and mill channels to monitor the dependence of mass transfer rate on the concentration and flow rates of the fluids.

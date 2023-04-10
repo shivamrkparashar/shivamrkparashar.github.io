@@ -1,12 +1,11 @@
 ---
 layout: page
-permalink: /assets/img/
+permalink: /talks/
 title: talks
 description: Conferences presentations and Posters
 nav: true
 nav_order: 5
 ---
-
 
 - [Machine Learning Approach for Construction of Fingerprint Kernels
 for Pore Structure Characterization of Metal-Organic Frameworks](https://plan.core-apps.com/aiche2022/event/0fe0894cea90bdd81d4b8e6500b6163b).
@@ -15,7 +14,7 @@ Oral Presentation.
 
 - [Adsorption based Pore Structure Characterization of Kerogen Fractions of Shales](https://plan.core-apps.com/aiche2021/event/5e7b04c9eb0148426f5dfdf5ff8da8cf).
  Fundamental of Adsorption Conference, Denver- Co, May 24, 2022. Oral Presentation.
-<img src="foa.jpg" width = "90%" height = "90%">
+<img src="/assets/img/foa.jpg" width = "90%" height = "90%">
 
 - [Monte Carlo and Density Functional Theory for Pore Structure Characterization of Kerogen](https://web.njit.edu/~gor/workshop.html).
  Molecular Simulations Workshop- NJIT, May 10, 2022. Oral Presentation.
@@ -24,7 +23,7 @@ Oral Presentation.
  Webinar at University of Laval, Feb 04, 2022. Oral Presentation. Invited Speaker
 
 - [Molecular Modeling and Adsorption Characterization of Micro- Mesoporous Kerogen Nanostructures](https://plan.core-apps.com/aiche2021/event/5e7b04c9eb0148426f5dfdf5ff8da8cf). AIChE Annual Meeting, Boston- MA, Nov 10, 2021. Oral Presentation.
-<img src="aiche21.jpeg" width = "90%" height = "90%">
+<img src="/assets/img/aiche21.jpeg" width = "90%" height = "90%">
 
 - [Revealing Specifics of Gas Adsorption in Metal-Organic Frameworks from Compartmentalization of Isotherms](https://plan.core-apps.com/aiche2021/event/cd3aeb3a0b574ed95b53739c427a38e7). AIChE Annual Meeting, Boston- MA, Nov 08, 2021. Oral
 Presentation. 

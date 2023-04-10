@@ -9,17 +9,20 @@ profile:
   image: profile_pic2.png
   image_circular: false # crops the image to make it circular
   address: >
+    <!--
+    <p> shivamrkparashar@gmail.com </p>
     <p>Room C-252, Brett Road </p>
     <p>Chemical & Biochemical Engineering</p>
     <p>Piscataway, NJ 08854-8058</p>
-
+    -->
+  
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
 
-I am a Ph.D. candidate working with [Dr. Alexander V. Neimark](http://sol.rutgers.edu/~aneimark/). 
+I am a Ph.D. candidate working with [Dr. Alexander V. Neimark](http://sol.rutgers.edu/~aneimark/) at Rutgers University. 
 My research is practically important for energy and environmental applications 
 ranging from separations, energy, and gas storage on nanoporous adsorbents to carbon dioxide 
 sequestration and enhanced gas recovery from shale and coal reservoirs. My present work focusses on 
