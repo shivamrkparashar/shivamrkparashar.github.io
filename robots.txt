@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://shivam_parashar.github.io/sitemap.xml
+Sitemap: https://shivamrkparashar.github.io/sitemap.xml
