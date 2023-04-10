@@ -1,0 +1,8 @@
+docker-compose up
+
+$ bundle install
+$ bundle exec jekyll serve
+
+
+
+The blog is disabled. To enable remove the comments from the _include/header.html. Search for 'Shivam'
