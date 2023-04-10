@@ -1,13 +1,13 @@
 ---
 layout: page
 title: teaching
-permalink: /teaching/
+permalink: /teachings/
 description: A growing collection of your cool teachings.
 nav: true
 nav_order: 2
 display_categories: [one]
 horizontal: true
-published: true
+published: false
 ---
 
 <!-- pages/teachings.md -->
