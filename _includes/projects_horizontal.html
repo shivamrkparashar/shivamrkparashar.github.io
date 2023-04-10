@@ -1,23 +1,30 @@
 <div class="card-item col">
+
+
+  <!--
+  To enable links to the projects, uncomment these lines
+
   {%- if project.redirect -%}
   <a href="{{ project.redirect }}">
   {%- else -%}
   <a href="{{ project.url | relative_url }}">
   {%- endif -%}
+  -->
     <div class="card hoverable">
-      <div class="row g-0">
+      <div class="col g-0">
         {%- if project.img -%}
-        <div class="card-img col-md-6">
+        <div class="card-img row-md-2">
           {% include figure.html path=project.img alt="project thumbnail" %}
         </div>
-        <div class="col-md-6">
+        <div class="row-md-6">
         {%- else -%}
-        <div class="col-md-12">
+        <div class="row-md-12">
         {%- endif -%}
           <div class="card-body">
-            <h3 class="card-title text-lowercase">{{ project.title }}</h3>
+            <h5 class="card-title text-lowercase">{{ project.title }}</h5>
             <p class="card-text">{{ project.description }}</p>
             <div class="row ml-1 mr-1 p-0">
+
               {%- if project.github -%}
               <div class="github-icon">
                 <div class="icon" data-toggle="tooltip" title="Code Repository">
@@ -29,12 +36,14 @@
                   <span id="{{ project.github_stars }}-stars"></span>
                 </span>
                 {%- endif -%}
+
               </div>
               {%- endif -%}
+
             </div>
           </div>
         </div>
       </div>
     </div>
-  </a>
+  <!-- </a> -->
 </div>

@@ -5,8 +5,9 @@ permalink: /projects/
 description: A growing collection of your cool projects.
 nav: true
 nav_order: 2
-display_categories: [work, fun]
-horizontal: false
+display_categories: [phd, undergrad]
+horizontal: true
+published: true
 ---
 
 <!-- pages/projects.md -->
@@ -20,20 +21,22 @@ horizontal: false
   <!-- Generate cards for each project -->
   {% if page.horizontal -%}
   <div class="container">
-    <div class="row row-cols-2">
+    <div class="row row-cols-lg-3">
     {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
+        {% include projects_horizontal.html %}
     {%- endfor %}
     </div>
   </div>
   {%- else -%}
   <div class="grid">
     {%- for project in sorted_projects -%}
-      {% include projects.html %}
+        {% include projects.html %}
     {%- endfor %}
   </div>
   {%- endif -%}
   {% endfor %}
+
+
 
 {%- else -%}
 <!-- Display projects without categories -->
@@ -41,7 +44,7 @@ horizontal: false
   <!-- Generate cards for each project -->
   {% if page.horizontal -%}
   <div class="container">
-    <div class="row row-cols-2">
+    <div class="row row-cols-xl-3">
     {%- for project in sorted_projects -%}
       {% include projects_horizontal.html %}
     {%- endfor %}

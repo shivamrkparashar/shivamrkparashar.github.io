@@ -52,7 +52,10 @@
                 </a>
               </li>
               {% if site.blog_nav_title %}
-              <!-- Blog -->
+
+              <!-- Blog
+              Shivam: Remove the comments below to enable blog section on website-->
+              <!--
               <li class="nav-item {% if page.url contains 'blog' %}active{% endif %}">
                 <a class="nav-link" href="{{ '/blog/' | relative_url }}">{{ site.blog_nav_title }}
                   {%- if page.url contains 'blog' -%}
@@ -60,6 +63,7 @@
                   {%- endif -%}
                 </a>
               </li>
+              -->
               {%- endif %}
 
               <!-- Other pages -->
