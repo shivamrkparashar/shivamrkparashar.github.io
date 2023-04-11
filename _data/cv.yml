@@ -6,6 +6,8 @@
     - name: Softwares
       value: RASPA, LAMMPS, Towhee, Amber, CP2K, Gaussian, VMD, LIGGGHTS, SolidWorks, LaTeX, Jupyter Notebooks, Excel, Mathematica
       image: /assets/img/PCN-224.jpg
+    - name: Simulation Techniques
+      value: Molecular Dynamics, Monte Carlo, Density Functional Theory, Dissipative Particle Dynamics, Discrete element method, Ab initio
 
 - title: Education
   type: time_table
