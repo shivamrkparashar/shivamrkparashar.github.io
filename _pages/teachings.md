@@ -10,6 +10,8 @@ horizontal: true
 published: true
 ---
 
+
+
 <!-- pages/teachings.md -->
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
@@ -21,7 +23,7 @@ published: true
   <!-- Generate cards for each teaching -->
   {% if page.horizontal -%}
   <div class="container">
-    <div class="row row-cols-3">
+    <div class="row row-cols-lg-3">
     {%- for teaching in sorted_teachings -%}
       {% include teachings_horizontal.html %}
     {%- endfor %}
