@@ -12,7 +12,7 @@ for Pore Structure Characterization of Metal-Organic Frameworks](https://plan.co
  AIChE Annual Meeting, Phoenix, Nov 16, 2022.
 Oral Presentation.
 
-- [Adsorption based Pore Structure Characterization of Kerogen Fractions of Shales](https://plan.core-apps.com/aiche2021/event/5e7b04c9eb0148426f5dfdf5ff8da8cf).
+- [Adsorption based Pore Structure Characterization of Kerogen Fractions of Shales](https://ias.confex.com/ias/foa14/meetingapp.cgi/Paper/1573).
  Fundamental of Adsorption Conference, Denver- Co, May 24, 2022. Oral Presentation.
 <img src="/assets/img/foa.jpg" width = "90%" height = "90%">
 
