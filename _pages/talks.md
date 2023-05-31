@@ -7,6 +7,10 @@ nav: true
 nav_order: 5
 ---
 
+- [Modeling Gas Adsorption within Nanopores using Mesocanonical
+Ensemble Simulations](https://web.njit.edu/~gor/workshop.html). 4th Molecular Simulations workshop- NJIT, May 30, 2023.
+Poster Presentation. 
+
 - [Machine Learning Approach for Construction of Fingerprint Kernels
 for Pore Structure Characterization of Metal-Organic Frameworks](https://plan.core-apps.com/aiche2022/event/0fe0894cea90bdd81d4b8e6500b6163b).
  AIChE Annual Meeting, Phoenix, Nov 16, 2022.
@@ -17,7 +21,7 @@ Oral Presentation.
 <img src="/assets/img/foa.jpg" width = "90%" height = "90%">
 
 - [Monte Carlo and Density Functional Theory for Pore Structure Characterization of Kerogen](https://web.njit.edu/~gor/workshop.html).
- Molecular Simulations Workshop- NJIT, May 10, 2022. Oral Presentation.
+ 3rd Molecular Simulations Workshop- NJIT, May 10, 2022. Oral Presentation.
 
 - [Advanced Pore Structure Characterization of Crystalline and Amorphous Materials](https://www.circuitco2.ca/events/shivam-parashars-lecture).
  Webinar at University of Laval, Feb 04, 2022. Oral Presentation. Invited Speaker
