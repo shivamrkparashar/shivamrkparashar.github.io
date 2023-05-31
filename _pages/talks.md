@@ -20,7 +20,7 @@ Oral Presentation.
  Fundamental of Adsorption Conference, Denver- Co, May 24, 2022. Oral Presentation.
 <img src="/assets/img/foa.jpg" width = "90%" height = "90%">
 
-- [Monte Carlo and Density Functional Theory for Pore Structure Characterization of Kerogen](https://web.njit.edu/~gor/workshop.html).
+- [Monte Carlo and Density Functional Theory for Pore Structure Characterization of Kerogen](https://web.njit.edu/~gor/workshop2022.html).
  3rd Molecular Simulations Workshop- NJIT, May 10, 2022. Oral Presentation.
 
 - [Advanced Pore Structure Characterization of Crystalline and Amorphous Materials](https://www.circuitco2.ca/events/shivam-parashars-lecture).
