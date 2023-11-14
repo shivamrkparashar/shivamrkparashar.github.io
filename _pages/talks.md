@@ -7,6 +7,15 @@ nav: true
 nav_order: 5
 ---
 
+- [Hybrid MD/MC Simulations of Adsorption on Flexible Nanoporous Materials](https://aiche.confex.com/aiche/2023/meetingapp.cgi/Paper/670536).
+AIChE Annual Meeting, Orlando, Nov 9, 2023. Oral Presentation.
+
+- [Mesocanonical Ensemble Simulations to Model Adsorption Phase Transitions within Nanopores](https://aiche.confex.com/aiche/2023/meetingapp.cgi/Paper/670480)
+AIChE Annual Meeting, Orlando, Nov 9, 2023. Oral Presentation.
+
+- [Modeling Kerogen Flexibility upon Gas Adsorption Using Osmotic Ensemble Simulations](https://aiche.confex.com/aiche/2023/meetingapp.cgi/Paper/674599)
+AIChE Annual Meeting, Orlando, Nov 7, 2023. Oral Presentation.
+
 - [Modeling Gas Adsorption within Nanopores using Mesocanonical
 Ensemble Simulations](https://web.njit.edu/~gor/workshop.html). 4th Molecular Simulations workshop- NJIT, May 30, 2023.
 Poster Presentation. 
