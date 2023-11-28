@@ -7,6 +7,8 @@ nav: true
 nav_order: 5
 ---
 
+- Analyzing Material Flexibility for CO2 Storage: A Molecular Modeling Approach. CBE-GSO Fall Research Forum, Nov 28, 2023. Oral Presentation.
+
 - [Hybrid MD/MC Simulations of Adsorption on Flexible Nanoporous Materials](https://aiche.confex.com/aiche/2023/meetingapp.cgi/Paper/670536).
 AIChE Annual Meeting, Orlando, Nov 9, 2023. Oral Presentation.
 
