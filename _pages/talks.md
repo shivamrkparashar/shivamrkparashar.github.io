@@ -11,6 +11,7 @@ nav_order: 5
 
 - [Hybrid MD/MC Simulations of Adsorption on Flexible Nanoporous Materials](https://aiche.confex.com/aiche/2023/meetingapp.cgi/Paper/670536).
 AIChE Annual Meeting, Orlando, Nov 9, 2023. Oral Presentation.
+<img src="/assets/img/aiche23.jpg" width = "100%" height = "100%">
 
 - [Mesocanonical Ensemble Simulations to Model Adsorption Phase Transitions within Nanopores](https://aiche.confex.com/aiche/2023/meetingapp.cgi/Paper/670480)
 AIChE Annual Meeting, Orlando, Nov 9, 2023. Oral Presentation.
@@ -29,7 +30,7 @@ Oral Presentation.
 
 - [Adsorption based Pore Structure Characterization of Kerogen Fractions of Shales](https://ias.confex.com/ias/foa14/meetingapp.cgi/Paper/1573).
  Fundamental of Adsorption Conference, Denver- Co, May 24, 2022. Oral Presentation.
-<img src="/assets/img/foa.jpg" width = "90%" height = "90%">
+<img src="/assets/img/foa.jpg" width = "100%" height = "100%">
 
 - [Monte Carlo and Density Functional Theory for Pore Structure Characterization of Kerogen](https://web.njit.edu/~gor/workshop2022.html).
  3rd Molecular Simulations Workshop- NJIT, May 10, 2022. Oral Presentation.
@@ -39,7 +40,7 @@ Oral Presentation.
 ***Invited Speaker***
 
 - [Molecular Modeling and Adsorption Characterization of Micro- Mesoporous Kerogen Nanostructures](https://plan.core-apps.com/aiche2021/event/5e7b04c9eb0148426f5dfdf5ff8da8cf). AIChE Annual Meeting, Boston- MA, Nov 10, 2021. Oral Presentation.
-<img src="/assets/img/aiche21.jpeg" width = "90%" height = "90%">
+<img src="/assets/img/aiche21.jpeg" width = "100%" height = "100%">
 
 - [Revealing Specifics of Gas Adsorption in Metal-Organic Frameworks from Compartmentalization of Isotherms](https://plan.core-apps.com/aiche2021/event/cd3aeb3a0b574ed95b53739c427a38e7). AIChE Annual Meeting, Boston- MA, Nov 08, 2021. Oral
 Presentation. 
