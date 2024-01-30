@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Pore Structure Compartmentalization to understand
+title: Pore Structure Compartmentalization of Metal-Organic Frameworks
 description: We developed a versatile Python algorithm based on clustering algorithm to partition the unit cell of a crystalline structure into individual pore compartments. This enables extracting a realistic shaped pore compartments within any metal-organic framework given its structure.
 img: assets/img/compartmentalization_rack.png
 importance: 1
