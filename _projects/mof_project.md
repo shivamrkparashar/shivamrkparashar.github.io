@@ -3,7 +3,7 @@ layout: page
 title: Pore Characterization of Metal-Organic Frameworks (MOFs)
 description: MOFs are made up of 3d network of interconnected pore compartments. We used Monte Carlo simulations  to generate fingerprint isotherms corresponding to each pore type. This work enables characteriation of experimental samples in terms of pore accessibility and degree of sample crystallinity.
 img: assets/img/PCN-224.jpg
-importance: 1
+importance: 3
 category: phd
 class: grid
 ---

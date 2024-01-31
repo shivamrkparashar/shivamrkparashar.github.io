@@ -5,7 +5,7 @@ description: "To examine the free energy landscape of trialanine in explicit sol
 Umbrella sampling method to generate the potential of mean force (PMF) as a function of dihedral angle. 
 Our results demonstrate that Umbrella sampling can provide a useful qualitative depiction of the free energy landscape."
 img: assets/img/trialanine.png
-importance: 3
+importance: 4
 category: phd
 class: grid
 ---
