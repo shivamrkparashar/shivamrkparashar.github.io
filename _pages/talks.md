@@ -7,11 +7,15 @@ nav: true
 nav_order: 5
 ---
 
+<img src="/assets/img/cpm9_group_photo.jpg" width = "100%" height = "100%">
+
 - [PyCOSMOS: A Python Tool for Compartmentalization of Unit Cells of Metal-Organic Frameworks](https://cpm9.rutgers.edu/event/1/timetable/#all.detailed). Characterization of Porous Materials (CPM)-9, May 21, 2024. Poster Presentation. ***Best poster award***
 
 - [Modeling Kerogen Flexibility in Response to Hydrocarbon Adsorption using Hybrid Molecular Dynamics/Monte Carlo](https://cpm9.rutgers.edu/event/1/timetable/#all.detailed). Characterization of Porous Materials (CPM)-9, May 21, 2024. Poster Presentation.
+<img src="/assets/img/cpm9_poster.jpg" width = "100%" height = "100%">
 
 - [Understanding the Origins of Reversible and Hysteretic Pathways of Adsorption Phase Transitions by Mesocanonical Ensemble Monte Carlo Simulations](https://cpm9.rutgers.edu/event/1/timetable/#all.detailed). Characterization of Porous Materials (CPM)-9, May 20, 2024. Oral Presentation.
+<img src="/assets/img/cpm9_talk.jpg" width = "100%" height = "100%">
 
 - Analyzing Material Flexibility for CO2 Storage: A Molecular Modeling Approach. CBE-GSO Fall Research Forum, Nov 28, 2023. Oral Presentation.
 
