@@ -7,9 +7,10 @@ nav: true
 nav_order: 5
 ---
 
-<img src="/assets/img/cpm9_group_photo.jpg" width = "100%" height = "100%">
+- Opportunities in Semiconductor industries. Professional Skills Development course, Rutgers University. Oct 14, 2024. Oral presentation.
 
 - [PyCOSMOS: A Python Tool for Compartmentalization of Unit Cells of Metal-Organic Frameworks](https://cpm9.rutgers.edu/event/1/timetable/#all.detailed). Characterization of Porous Materials (CPM)-9, May 21, 2024. Poster Presentation. ***Best poster award***
+<img src="/assets/img/cpm9_group_photo.jpg" width = "100%" height = "100%">
 
 - [Modeling Kerogen Flexibility in Response to Hydrocarbon Adsorption using Hybrid Molecular Dynamics/Monte Carlo](https://cpm9.rutgers.edu/event/1/timetable/#all.detailed). Characterization of Porous Materials (CPM)-9, May 21, 2024. Poster Presentation.
 <img src="/assets/img/cpm9_poster.jpg" width = "100%" height = "100%">
