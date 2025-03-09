@@ -17,6 +17,10 @@
 "Parashar":
   - firstname: ["Shivam", "S."]
 
+"Corrente":
+  - firstname: ["Nicholas", "N.", "N. J.", "Nicholas J."]
+    url: https://njcorrente.github.io/
+
 "Anand":
   - firstname: ["Anshu", "A.", "Anshu Anand"]
     url: https://ch.iitr.ac.in/~CH/Anshu_Anand
