@@ -21,15 +21,15 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-
-I am a Ph.D. candidate working with [Dr. Alexander V. Neimark](http://sol.rutgers.edu/~aneimark/) at Rutgers University. 
-My research holds significant practical implications for various energy and environmental applications. 
-These spans from gas separations, energy, and gas storage on nanoporous adsorbents to carbon dioxide 
-sequestration and enhanced gas recovery from shale and coal reservoirs. My present work focusses on 
-theoretical studies of adsorption in two types of nanoporous materials: Metal-organic frameworks 
-(MOFs) and Kerogens. I use the Monte Carlo, Molecular Dynamics, Density Functional Theory and Machine learning to model the
-nanoscale systems and predict their properties. Most of my simulations are run on [RASPA](https://github.com/iRASPA/RASPA2),
-[LAMMPS](https://www.lammps.org/) and [MCCS Towhee](https://siepmann.chem.umn.edu/software).
+Currently, I am a software developer at Lam Research Corporation. My Ph.D.
+in chemical engineering holds significant practical 
+implications for various energy and environmental applications spanning 
+from gas separations, energy, and gas storage on nanoporous adsorbents to carbon 
+dioxide sequestration and enhanced gas recovery from shale and coal reservoirs. 
+My work focussed on theoretical studies of adsorption in two types of nanoporous
+materials: Metal-organic frameworks (MOFs) and Kerogens. I used the Monte Carlo, 
+Molecular Dynamics, Density Functional Theory and Machine learning to model the 
+nanoscale systems and predict their properties. 
 
 
 <!--
